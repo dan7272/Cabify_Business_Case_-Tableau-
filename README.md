@@ -1,2 +1,0 @@
-# Personal-Projects
-Data projects
